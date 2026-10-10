@@ -1,0 +1,17 @@
+*.out
+/tmp*
+*.log
+
+**/*.o
+
+**/*.s
+
+/rvcc
+
+build/
+
+references/
+
+.asm-lsp.toml
+
+notes/
